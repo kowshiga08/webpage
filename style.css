@@ -1,0 +1,112 @@
+# {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-image: url("cake.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.menu {
+     float: right;
+     text-decoration: none;
+     margin-top: 30px;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a{
+
+    color: white;
+    text-decoration: orangered;
+    padding: 5px 20px;
+    font-size: 20px;
+
+}
+
+.homebtn{
+
+    border: 1px solid maroon;
+    background-color: red;
+    cursor: not-allowed;
+}
+
+
+.OURACHIEVEMENTbtn{
+    border: 1px solid maroon;
+    background-color: red;
+    cursor: not-allowed;
+
+}
+
+.OURCAKESbtn{
+    border: 1px solid maroon;
+    background-color: red;
+    cursor: not-allowed;
+}
+
+.contactbtn{
+    border: 1px solid maroon;
+    background-color: red;
+    cursor: not-allowed;
+}
+
+
+.aboutbtn{
+    border: 1px solid maroon;
+    background-color: red;
+    cursor: progress;
+}
+
+.tagline{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+h1{
+    color: rgb(255, 72, 0);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 275px;
+    border: crimson 2px solid;
+    
+
+}
+
+.register{
+    margin-top: 30px;
+    margin-left: 540px;
+}
+
+.bttn{
+    border: 1px solid gray;
+    padding: 10px 30px;
+    color: white;
+    font-size: 22px;
+    text-decoration: grey;
+
+}
+
+.bttn{
+    background-color:red;
+
+}
+
+button{
+    border: 20px;
+    background-color: rgb(133, 255, 122);
+}
+
+
+
+
+ 
+
+
